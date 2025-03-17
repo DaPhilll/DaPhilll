@@ -10,9 +10,9 @@ Passionate and detail-oriented Cybersecurity Professional with a Master’s in C
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Information and Event Management with Wazuh          | <a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>|
-| Suricata Network Intrusion Detection System | <a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>|
-| Vulnerability Scanning and Reporting with OpenVAS         | <a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Scanning and Reporting with OpenVAS</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>|
+| Vulnerability Scanning and Reporting         | <a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Scanning and Reporting with OpenVAS</a>|
 
 
 ## Tools
