@@ -4,7 +4,7 @@ I'm a Desktop Support Engineer transitioning into Cybersecurity by leveraging ha
 
 ## Objective
 
-Passionate and detail-oriented Cybersecurity Professional with a Master’s in Cybersecurity & Information Assurance and hands-on IT experience, seeking to transition from Desktop Support into a Cybersecurity Analyst or Security Engineer role. Skilled in threat detection, vulnerability management, network security, and incident response, with practical experience deploying SIEMs, IDS solutions, and vulnerability scanners in a homelab environment.
+Actively pursuing a Cybersecurity Analyst or Security Engineer role. I bring a Master's in Cybersecurity & Information Assurance and practical IT experience. My skillset includes deploying and managing SIEMs, IDS, and vulnerability scanners in a homelab environment. I am proficient in threat detection, vulnerability management, and incident response. This GitHub repository is a dynamic portfolio and will be continuously updated with projects that demonstrate my ongoing learning and commitment to professional growth.
 
 ## Skills
 
