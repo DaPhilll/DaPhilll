@@ -1,6 +1,6 @@
 # Hello, I'm Darreon 👋 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/darreon-phillips-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp; <a href="https://tryhackme.com/p/dphil97"><img src="https://tryhackme-badges.s3.amazonaws.com/dphil97.png" alt="Your Image Badge" /></a>
 
-I'm a Desktop Support Engineer transitioning into Cybersecurity, bringing hands-on IT experience and a strong security foundation.
+I'm a Desktop Support Engineer transitioning into Cybersecurity by leveraging hands-on IT experience with a strong network and security foundation.
 
 ## Objective
 
