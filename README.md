@@ -7,13 +7,12 @@ I'm a Desktop Support Engineer transitioning into Cybersecurity, bringing hands-
 Passionate and detail-oriented Cybersecurity Professional with a Master’s in Cybersecurity & Information Assurance and hands-on IT experience, seeking to transition from Desktop Support into a Cybersecurity Analyst or Security Engineer role. Skilled in threat detection, vulnerability management, network security, and incident response, with practical experience deploying SIEMs, IDS solutions, and vulnerability scanners in a homelab environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Wazuh Deployment          | <a href="https://github.com/DaPhilll/Wazuh-Deployment">Wazuh Deployment</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Information and Event Management with Wazuh          | <a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>|
+| Suricata Network Intrusion Detection System | <a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>|
+| Vulnerability Scanning and Reporting with OpenVAS         | <a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Scanning and Reporting with OpenVAS</a>|
 
 
 ## Tools
@@ -78,5 +77,6 @@ Passionate and detail-oriented Cybersecurity Professional with a Master’s in C
 
 
 ## Projects
-- <a href="https://github.com/DaPhilll/Wazuh-Deployment">Wazuh Deployment</a>
-- SOC Automation Project
+- <a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>
+- <a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>
+- <a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Scanning and Reporting with OpenVAS</a>
