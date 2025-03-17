@@ -48,7 +48,7 @@ Actively pursuing a Cybersecurity Analyst or Security Engineer role. I bring a M
     <a href="https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=azure-portal" target="_blank">
         <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <a href="https://www.splunk.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Splunk-ff6600?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <a href="https://www.elastic.co/" target="_blank">
         <img src="https://img.shields.io/badge/-Elastic-0077cc?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <a href="https://wazuh.com/" target="_blank">
