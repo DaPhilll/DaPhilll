@@ -19,17 +19,24 @@ Actively pursuing a Cybersecurity Analyst or Security Engineer role. I bring a M
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Rapid7-FF0000?&style=for-the-badge&logo=rapid7&logoColor=white" />
-    <img src="https://img.shields.io/badge/-pfSense-2980B9?&style=for-the-badge&logo=pfsense&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-27AE60?&style=for-the-badge&logo=openvas&logoColor=white" />
+    <a href="https://www.wireshark.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://suricata.io/" target="_blank">
+        <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <a href="https://www.rapid7.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Rapid7-FF0000?&style=for-the-badge&logo=rapid7&logoColor=white" />
+    <a href="https://www.pfsense.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-pfSense-2980B9?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    <a href="https://www.openvas.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-OpenVAS-27AE60?&style=for-the-badge&logo=openvas&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals" target="_blank">
+        <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://docs.velociraptor.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
