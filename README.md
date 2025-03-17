@@ -19,13 +19,14 @@ Passionate and detail-oriented Cybersecurity Professional with a Master’s in C
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rapid7-FF0000?&style=for-the-badge&logo=rapid7&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-2980B9?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-27AE60?&style=for-the-badge&logo=openvas&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -39,10 +40,10 @@ Passionate and detail-oriented Cybersecurity Professional with a Master’s in C
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]] 
 <div>  
     <a href="https://www.credly.com/badges/eb4a3bad-5e6e-467d-80fc-4cf06b980f86/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-SSCP-3333FF?&style=for-the-badge&logo=ISC2&logoColor=white" />
