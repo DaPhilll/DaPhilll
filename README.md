@@ -4,7 +4,7 @@ I'm a Desktop Support Engineer transitioning into Cybersecurity by leveraging ha
 
 ## Objective
 
-Actively pursuing a Cybersecurity Analyst or Security Engineer role. I bring a Master's in Cybersecurity & Information Assurance and practical IT experience. My skillset includes deploying and managing XDR, SIEM, Log Analysis, IDS, and vulnerability scanners in a homelab environment. I am proficient in threat detection, vulnerability management, and incident response. This GitHub repository is a dynamic portfolio and will be continuously updated with projects that demonstrate my ongoing learning and commitment to professional growth.
+Actively pursuing a Cybersecurity Analyst or Security Engineer role, leveraging a Master's in Cybersecurity & Information Assurance and practical IT experience. Proficient in deploying and managing XDR, SIEM, Log Analysis, IDS, and vulnerability scanners, along with a strong understanding of GRC principles, auditing methodologies, and compliance frameworks. Skilled in threat detection, vulnerability management, and incident response. This GitHub repository showcases my continuous learning and commitment to professional growth.
 
 ## Skills
 
