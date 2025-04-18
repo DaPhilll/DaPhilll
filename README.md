@@ -4,7 +4,7 @@ I'm a Desktop Support Engineer transitioning into Cybersecurity by leveraging ha
 
 ## Objective
 
-Actively pursuing a Cybersecurity Analyst or Security Engineer role, leveraging a Master's in Cybersecurity & Information Assurance and practical IT experience. Proficient in deploying and managing XDR, SIEM, Log Analysis, IDS, and vulnerability scanners, along with a strong understanding of GRC principles, auditing methodologies, and compliance frameworks. Skilled in threat detection, vulnerability management, and incident response. This GitHub repository showcases my continuous learning and commitment to professional growth.
+Actively pursuing a Security Analyst or GRC role, leveraging a Master's in Cybersecurity & Information Assurance and practical IT experience. Proficient in deploying and managing XDR, SIEM, Log Analysis, IDS, and vulnerability scanners, along with a strong understanding of GRC principles, auditing methodologies, and compliance frameworks. Skilled in threat detection, vulnerability management, and incident response. This GitHub repository showcases my continuous learning and commitment to professional growth.
 
 ## Skills
 
@@ -77,6 +77,9 @@ Actively pursuing a Cybersecurity Analyst or Security Engineer role, leveraging 
     </a>
     <a href="https://aspen.eccouncil.org/Verify" target="_blank">
         <img src="https://img.shields.io/badge/-CEH-c8102e?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+    </a>
+    <a href="https://coursera.org/share/9e8050a1cd25112222526d3ea9733b7c" target="_blank">
+        <img src="https://img.shields.io/badge/-Google%20Cybersecurity-3842c7?&style=for-the-badge&logo=EC-Council&logoColor=white" />
     </a>
     <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000544306/yfghwgr8yz" target="_blank">
         <img src="https://img.shields.io/badge/-Linux%20Essentials-ffd700?&style=for-the-badge&logo=LPI&logoColor=white" />
