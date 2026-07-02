@@ -1,100 +1,105 @@
-# Hello, I'm Darreon 👋 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/darreon-phillips-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp; <a href="https://tryhackme.com/p/dphil97"><img src="https://tryhackme-badges.s3.amazonaws.com/dphil97.png" alt="Your Image Badge" /></a>
+# Hello, I'm Darreon 👋 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/darreon-phillips-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a Desktop Support Engineer transitioning into Cybersecurity by leveraging hands-on IT experience with a strong network and security foundation.
+I am a Cybersecurity Operations professional specializing in detection engineering, incident response automation, and multi-tenant security architecture. I consistently refine my engineering and analytical skills through advanced laboratory environments across TryHackMe, Hack The Box, and Pluralsight.
 
-## Objective
+## Professional Summary
 
-Actively pursuing a Security Analyst or GRC role, leveraging a Master's in Cybersecurity & Information Assurance and practical IT experience. Proficient in deploying and managing XDR, SIEM, Log Analysis, IDS, and vulnerability scanners, along with a strong understanding of GRC principles, auditing methodologies, and compliance frameworks. Skilled in threat detection, vulnerability management, and incident response. This GitHub repository showcases my continuous learning and commitment to professional growth.
+Enterprise Security Analyst with a Master of Science in Cybersecurity and Information Assurance. Experienced in authoring custom detection logic, managing XDR/SIEM platforms across multi-tenant environments, and engineering SOAR playbooks to optimize incident triage. Technical expertise spans engineering automated workflows, vulnerability lifecycles, and identity and access management (IAM) architecture.
 
-## Skills
+## Core Technical Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>|
-| Vulnerability Scanning and Reporting         | <a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Scanning and Reporting with OpenVAS</a>|
+| Skill Area | Enterprise Capabilities & Methodologies | Associated Portfolio Projects |
+| :--- | :--- | :--- |
+| **Security Operations & Detection Engineering** | Multi-tenant log correlation, custom query authoring (KQL/SPL), detection logic tuning, and false-positive reduction. | <a href="https://github.com/DaPhilll/Enterprise-Detection-Engineering">Enterprise Detection-as-Code & Log Correlation Suite</a> |
+| **SOAR & Incident Automation** | Playbook engineering, API-driven endpoint isolation, third-party threat intelligence ingestion, and alert enrichment. | <a href="https://github.com/DaPhilll/SOAR-Incident-Automation">SOAR Playbook Engineering & Incident Response Automation</a> |
+| **Generative AI & SecOps Workflow Design** | Leveraging LLMs to parse security events, aggregate cross-environment data, and standardize compliance reporting. | <a href="https://github.com/DaPhilll/AI-SecOps-Reporter">Generative AI Incident Triage & Investigative Reporting</a> |
+| **Vulnerability Management & GRC** | Lifecycle remediation tracking, asset discovery configuration, and compliance artifact compilation (SOC 2, NIST). | *Enterprise Operations Framework focus* |
 
+## Technical Ecosystem
 
-## Tools
-
-### Network
+### Security Operations (SIEM / XDR / EDR)
 <div>
-    <a href="https://www.wireshark.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-Wireshark-0077CC?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <a href="https://suricata.io/" target="_blank">
-        <img src="https://img.shields.io/badge/-Suricata-ff6600?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <a href="https://www.rapid7.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Rapid7-ff6600?&style=for-the-badge&logo=rapid7&logoColor=white" />
-    <a href="https://www.pfsense.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-pfSense-0074d9?&style=for-the-badge&logo=pfsense&logoColor=white" />
-    <a href="https://www.openvas.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-OpenVAS-66cc33?&style=for-the-badge&logo=openvas&logoColor=white" />
-    <a href="https://nmap.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-Nmap-4682b4?&style=for-the-badge&logo=nmap&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals" target="_blank">
-        <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078d7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <a href="https://www.sentinelone.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-SentinelOne-472a64?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
-    <a href="https://docs.velociraptor.app/" target="_blank">
-        <img src="https://img.shields.io/badge/-Velociraptor-4caf50?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <a href="https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=azure-portal" target="_blank">
-        <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <a href="https://www.splunk.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Splunk-ff6600?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <a href="https://www.elastic.co/" target="_blank">
-        <img src="https://img.shields.io/badge/-Elastic-0077cc?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <a href="https://wazuh.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Wazuh-0055a4?&style=for-the-badge&logo=wazuh&logoColor=white" />
-</div>
-
-## Certifications
-<div>  
-    <a href="https://www.credly.com/badges/eb4a3bad-5e6e-467d-80fc-4cf06b980f86/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/-SSCP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <a href="https://www.rapid7.com/products/insightidr/" target="_blank">
+        <img src="https://img.shields.io/badge/-Rapid7_InsightIDR-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
     </a>
+    <a href="https://learn.microsoft.com/en-us/azure/sentinel/" target="_blank">
+        <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
+    <a href="https://www.splunk.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Splunk-F8A51D?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    </a>
+    <a href="https://www.crowdstrike.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-FC0000?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+    </a>
+    <a href="https://www.sentinelone.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-SentinelOne-472A64?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+    </a>
+</div>
+
+### Vulnerability Management & Automation
+<div>
+    <a href="https://www.rapid7.com/products/insightvm/" target="_blank">
+        <img src="https://img.shields.io/badge/-Rapid7_InsightVM-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
+    </a>
+    <a href="https://torq.io/" target="_blank">
+        <img src="https://img.shields.io/badge/-Torq_SOAR-7B2CBF?&style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/entra/identity/" target="_blank">
+        <img src="https://img.shields.io/badge/-Azure_Entra_ID-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+        <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    </a>
+</div>
+
+## Professional Certifications
+
+<div>  
+    <!-- ISC2 -->
+    <img src="https://img.shields.io/badge/-ISC2_CISSP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <a href="https://www.credly.com/badges/eb4a3bad-5e6e-467d-80fc-4cf06b980f86/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/-ISC2_SSCP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    </a>
+    <!-- CompTIA -->
+    <img src="https://img.shields.io/badge/-CompTIA_SecurityX-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <a href="https://www.credly.com/badges/7254c8cb-7351-41e4-9b4d-3339ae0c8754/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/-CySA%2B-e2231a?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+        <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
     <a href="https://www.credly.com/badges/85c805a3-a2e7-4972-b59d-d2558d6d3170/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/-Security%2B-e2231a?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+        <img src="https://img.shields.io/badge/-CompTIA_Security%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
     <a href="https://www.credly.com/badges/d3e082ef-5172-4295-b89d-b5f68ea7423d/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/-Network%2B-e2231a?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    </a>
-    <a href="https://www.credly.com/badges/c5b192af-d722-432b-92c4-65fa963e88d1/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/-CCNA-049fd9?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    </a>
-    <a href="https://www.credly.com/badges/2c852440-4ce7-4e1f-9351-7b2e05d285aa/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/-Project%2B-e2231a?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    </a>
-    <a href="https://aspen.eccouncil.org/Verify" target="_blank">
-        <img src="https://img.shields.io/badge/-CEH-c8102e?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-    </a>
-    <a href="https://coursera.org/share/9e8050a1cd25112222526d3ea9733b7c" target="_blank">
-        <img src="https://img.shields.io/badge/-Google%20Cybersecurity-3842c7?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-    </a>
-    <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000544306/yfghwgr8yz" target="_blank">
-        <img src="https://img.shields.io/badge/-Linux%20Essentials-ffd700?&style=for-the-badge&logo=LPI&logoColor=white" />
+        <img src="https://img.shields.io/badge/-CompTIA_Network%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
     <a href="https://www.credly.com/badges/2f45e3d8-9628-4172-9b38-fc2f37266810/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/-A%2B-e2231a?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+        <img src="https://img.shields.io/badge/-CompTIA_A%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
+    <a href="https://www.credly.com/badges/2c852440-4ce7-4e1f-9351-7b2e05d285aa/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/-CompTIA_Project%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+    <!-- Cisco -->
+    <a href="https://www.credly.com/badges/c5b192af-d722-432b-92c4-65fa963e88d1/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/-Cisco_CCNA-00BCEB?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+    <!-- Rapid7 -->
+    <img src="https://img.shields.io/badge/-Rapid7_InsightIDR_Product-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rapid7_InsightIDR_Advanced-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
 </div>
 
-
-
-
-
-
 ## Projects
-- <a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>
-- <a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>
-- <a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Scanning and Reporting with OpenVAS</a>
+
+- **<a href="https://github.com/DaPhilll/Enterprise-Detection-Engineering">Enterprise Detection-as-Code & Log Correlation Suite</a>**  
+  A centralized repository containing custom detection logic, hunting queries, and telemetry correlation configurations mapping directly to the MITRE ATT&CK framework. Includes optimized KQL for Microsoft Sentinel/Rapid7 and tuning logic built to structurally minimize false positives within multi-tenant infrastructures.
+- **<a href="https://github.com/DaPhilll/SOAR-Incident-Automation">SOAR Playbook Engineering & Incident Response Automation</a>**  
+  Automated incident response playbooks engineered using Python and programmatic workflow logic modeled after enterprise SOAR patterns. Features automated endpoint isolation scripts, programmatic threat intelligence lookups (AnyRun/VirusTotal APIs), and multi-stage triage orchestration to reduce mean time to respond (MTTR).
+- **<a href="https://github.com/DaPhilll/AI-SecOps-Reporter">Generative AI Incident Triage & Investigative Reporting</a>**  
+  An automation pipeline utilizing generative AI API integrations to parse raw security logs and endpoint alerts. The tool normalizes diverse multi-tenant data inputs, extracts critical threat indicators, and compiles structured, audit-ready investigative documentation conforming to SOC 2 review standards.
+- **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**  
+  Deployment of an open-source SIEM platform to aggregate enterprise security logs, configure agent-based monitoring, and analyze security events.
+- **<a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>**  
+  Implementation of automated network traffic analysis and signature-based attack detection policies within a simulated corporate perimeter.
+- **<a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Scanning and Reporting with OpenVAS</a>**  
+  Configuring asset identification schedules, managing scan profiles, and generating actionable remediation metrics for technical teams.
