@@ -4,7 +4,7 @@ I am a Cybersecurity Operations professional with experience in detection engine
 
 ## Professional Summary
 
-Enterprise Security Analyst with a Master of Science in Cybersecurity and Information Assurance. Experienced in authoring custom detection logic, managing XDR/SIEM platforms across multi-tenant environments, and engineering SOAR playbooks to optimize incident triage. Technical expertise spans engineering automated workflows, vulnerability lifecycles, and identity and access management (IAM) architecture.
+USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersecurity and Information Assurance. Brings 4+ years of total IT experience, featuring 1+ year focused on multi-tenant log correlation and incident triage within a high-volume MSSP SOC environment. Technical experience includes authoring custom SIEM detection logic, utilizing enterprise XDR/EDR platforms, developing automated triage workflows, and monitoring vulnerability lifecycles and identity access controls.
 
 ## Core Technical Skills
 
