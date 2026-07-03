@@ -1,4 +1,4 @@
-# Hello, I'm Darreon 👋 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/darreon-phillips-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Darreon 👋 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/darreon-phillips-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp; <a href="https://www.credly.com/users/darreon-phillips" target="_blank"><img src="https://img.shields.io/badge/-Credly-FF5A00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 
 USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersecurity and Information Assurance. Backed by 4+ years of total IT experience, including 1+ year focused on multi-tenant log correlation and high-volume incident triage within an MSSP SOC environment utilizing various security tools across diverse log sources. Technical experience spans authoring custom SIEM detection logic, utilizing enterprise XDR/EDR platforms, developing automated triage workflows, and monitoring vulnerability lifecycles and identity access controls. Continually refines advanced skills through platform labs like TryHackMe, Hack The Box, and Pluralsight, alongside frequently deploying and tearing down virtual homelabs to practice with various tools and methodologies.
 
@@ -122,7 +122,6 @@ USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersec
 
 - **<a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise Governance, Risk, and Compliance (GRC) & Vulnerability Management Framework</a>**
   An operational framework integrating technical scanning platforms (Rapid7 InsightVM/OpenVAS) with governance workflows. Demonstrates dynamic asset discovery, remediation SLA enforcement, risk exception management, and the compilation of automated SOC 2 and NIST 800-53 compliance artifacts.
-
 
 - **<a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>**
   Implementation of automated network traffic analysis and custom signature-based attack detection policies mapped to the Emerging Threats (ET) ruleset within a simulated corporate perimeter.
