@@ -1,6 +1,6 @@
 # Hello, I'm Darreon 👋 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/darreon-phillips-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp; <a href="https://www.credly.com/users/darreon-phillips" target="_blank"><img src="https://img.shields.io/badge/-Credly-FF5A00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 
-USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersecurity and Information Assurance. Backed by 4+ years of total IT experience, including 1+ year focused on multi-tenant log correlation and high-volume incident triage within an MSSP SOC environment utilizing various security tools across diverse log sources. Technical experience spans authoring custom SIEM detection logic, utilizing enterprise XDR/EDR platforms, developing automated triage workflows, and monitoring vulnerability lifecycles and identity access controls. Continually refines advanced skills through platform labs like TryHackMe, Hack The Box, and Pluralsight, alongside frequently deploying and tearing down virtual homelabs to practice with various tools and methodologies.
+USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity and Information Assurance. Backed by 4+ years of total IT experience, including 1+ year engineering multi-tenant log correlation and high-volume incident triage within an MSSP SOC environment. Technical competencies include authoring custom SIEM detection logic, administering enterprise XDR/EDR platforms, developing automated orchestration workflows, and monitoring vulnerability lifecycles and identity access controls. Committed to continuous professional development, frequently validating new security methodologies using various platforms such as TryHackMe, Hack The Box, and Pluralsight alongside virtual homelab environments.
 
 ## Core Technical Skills
 
@@ -38,7 +38,7 @@ USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersec
     </a>
 </div>
 
-### Identity & Infrastructure (IAM / Networking / Systems)
+### Identity & Infrastructure (IAM / Systems)
 <div>
     <a href="https://learn.microsoft.com/en-us/entra/identity/" target="_blank">
         <img src="https://img.shields.io/badge/-Microsoft_Entra_ID_(Azure_AD)-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -48,9 +48,6 @@ USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersec
     </a>
     <a href="https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview" target="_blank">
         <img src="https://img.shields.io/badge/-Conditional_Access_&_MFA-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    </a>
-    <a href="https://meraki.cisco.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Cisco_Meraki-00BCEB?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
     <a href="https://learn.microsoft.com/en-us/windows-server/" target="_blank">
         <img src="https://img.shields.io/badge/-Windows_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -103,28 +100,33 @@ USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersec
     <a href="https://www.credly.com/badges/c5b192af-d722-432b-92c4-65fa963e88d1/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-Cisco_CCNA-00BCEB?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
-    
 </div>
+
+## Education
+
+* **Master of Science (M.S.), Cybersecurity and Information Assurance** — Western Governors University • [View Diploma](https://github.com/user-attachments/assets/af73c4d9-6890-44c6-a5db-cb5203c3e448)
+* **Bachelor of Science (B.S.), Cybersecurity and Information Assurance** — Western Governors University • [View Diploma](https://github.com/user-attachments/assets/c9dd6582-a4d1-44b9-9ce3-1daa881b3e68)
 
 ## Projects
 
-- **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**
+* **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**
   Deployment of an open-source SIEM platform to aggregate enterprise security logs, configure agent-based monitoring, and actively detect simulated threat behaviors across multiple endpoints.
 
-- **<a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a>**
+* **<a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a>**
   A centralized repository containing custom detection logic, hunting queries, and telemetry correlation configurations mapping directly to the MITRE ATT&CK framework. Includes optimized KQL for Microsoft Sentinel/Rapid7 and tuning logic built to structurally minimize false positives within multi-tenant infrastructures.
 
-- **<a href="https://github.com/DaPhilll/SOAR-Playbook-Engineering-Incident-Response-Automation">SOAR Playbook Engineering & Incident Response Automation</a>**
+* **<a href="https://github.com/DaPhilll/SOAR-Playbook-Engineering-Incident-Response-Automation">SOAR Playbook Engineering & Incident Response Automation</a>**
   A suite of automated incident response playbooks engineered using Python and the open-source Shuffle SOAR platform. Features programmatic threat intelligence enrichment via VirusTotal APIs and automated endpoint network isolation via Wazuh Active Response to standardize triage and accelerate containment.
 
-- **<a href="https://github.com/DaPhilll/Generative-AI-Incident-Triage-Investigative-Reporting">Generative AI Incident Triage & Investigative Reporting</a>**
+* **<a href="https://github.com/DaPhilll/Generative-AI-Incident-Triage-Investigative-Reporting">Generative AI Incident Triage & Investigative Reporting</a>**
   An automation pipeline utilizing generative AI API integrations to parse raw security logs and endpoint alerts. The tool normalizes diverse multi-tenant data inputs, extracts critical threat indicators, and compiles structured, audit-ready investigative documentation conforming to SOC 2 review standards.
 
-- **<a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise Governance, Risk, and Compliance (GRC) & Vulnerability Management Framework</a>**
+* **<a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise Governance, Risk, and Compliance (GRC) & Vulnerability Management Framework</a>**
   An operational framework integrating technical scanning platforms (Rapid7 InsightVM/OpenVAS) with governance workflows. Demonstrates dynamic asset discovery, remediation SLA enforcement, risk exception management, and the compilation of automated SOC 2 and NIST 800-53 compliance artifacts.
 
-- **<a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>**
+* **<a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>**
   Implementation of automated network traffic analysis and custom signature-based attack detection policies mapped to the Emerging Threats (ET) ruleset within a simulated corporate perimeter.
 
-- **<a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Assessment Engineering with Greenbone (OpenVAS)</a>**
+* **<a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Assessment Engineering with Greenbone (OpenVAS)</a>**
   Containerized deployment of the Greenbone Vulnerability Manager. Showcases the execution of credentialed deep-host audits against legacy architectures and the configuration of compliance overrides to isolate actionable risk from false positives.
+```
