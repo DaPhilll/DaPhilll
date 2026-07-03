@@ -1,10 +1,6 @@
 # Hello, I'm Darreon 👋 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/darreon-phillips-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity Operations professional with experience in detection engineering, incident response automation, and multi-tenant security architecture. I consistently refine my engineering and analytical skills through advanced lab environments across TryHackMe, Hack The Box, and Pluralsight.
-
-## Professional Summary
-
-USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersecurity and Information Assurance. Brings 4+ years of total IT experience, featuring 1+ year focused on multi-tenant log correlation and incident triage within a high-volume MSSP SOC environment. Technical experience includes authoring custom SIEM detection logic, utilizing enterprise XDR/EDR platforms, developing automated triage workflows, and monitoring vulnerability lifecycles and identity access controls.
+USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersecurity and Information Assurance. Backed by 4+ years of total IT experience, including 1+ year focused on multi-tenant log correlation and high-volume incident triage within an MSSP SOC environment. Technical experience spans authoring custom SIEM detection logic, utilizing enterprise XDR/EDR platforms, developing automated triage workflows, and monitoring vulnerability lifecycles and identity access controls. Continually refines advanced engineering and analytical skills through dedicated lab environments across TryHackMe, Hack The Box, and Pluralsight.
 
 ## Core Technical Skills
 
