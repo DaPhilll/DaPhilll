@@ -15,7 +15,7 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienc
 | **Generative AI & SecOps Workflow Design** | Leveraging LLMs to parse security events, aggregate cross-environment data, and standardize compliance reporting. | <a href="https://github.com/DaPhilll/AI-SecOps-Reporter">Generative AI Incident Triage & Investigative Reporting</a> |
 | **Vulnerability Management & GRC** | Lifecycle remediation tracking, asset discovery configuration, and compliance artifact compilation (SOC 2, NIST). | <a href="https://github.com/DaPhilll/Enterprise-GRC-Vulnerability-Management">Enterprise GRC & Vulnerability Management Framework</a> |
 
-## Technical Ecosystem
+## Core Technology Stack
 
 ### Security Operations (SIEM / XDR / EDR)
 <div>
@@ -64,8 +64,10 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienc
         <img src="https://img.shields.io/badge/-ISC2_SSCP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
     </a>
     <!-- CompTIA -->
-    <img src="https://img.shields.io/badge/-CompTIA_SecurityX-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <a href="https://www.credly.com/badges/ddd7c6e7-151b-4dee-b3d4-ee809533e099/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/-CompTIA_SecurityX-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/badges/c47e34f8-744f-4446-a994-127aaddac272/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
     <a href="https://www.credly.com/badges/85c805a3-a2e7-4972-b59d-d2558d6d3170/public_url" target="_blank">
@@ -89,7 +91,7 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienc
     <img src="https://img.shields.io/badge/-Rapid7_InsightIDR_Advanced-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
 </div>
 
-## Featured Projects
+## Projects
 
 - **<a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a>**
   A centralized repository containing custom detection logic, hunting queries, and telemetry correlation configurations mapping directly to the MITRE ATT&CK framework. Includes optimized KQL for Microsoft Sentinel/Rapid7 and tuning logic built to structurally minimize false positives within multi-tenant infrastructures.
