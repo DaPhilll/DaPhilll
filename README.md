@@ -10,10 +10,10 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienc
 
 | Skill Area | Enterprise Capabilities & Methodologies | Associated Portfolio Projects |
 | :--- | :--- | :--- |
-| **Security Operations & Detection Engineering** | Multi-tenant log correlation, custom query authoring (KQL/SPL), detection logic tuning, and false-positive reduction. | <a href="https://github.com/DaPhilll/Enterprise-Detection-Engineering">Enterprise Detection-as-Code & Log Correlation Suite</a> |
-| **SOAR & Incident Automation** | Playbook engineering, API-driven endpoint isolation, third-party threat intelligence ingestion, and alert enrichment. | <a href="https://github.com/DaPhilll/SOAR-Incident-Automation">SOAR Playbook Engineering & Incident Response Automation</a> |
-| **Generative AI & SecOps Workflow Design** | Leveraging LLMs to parse security events, aggregate cross-environment data, and standardize compliance reporting. | <a href="https://github.com/DaPhilll/AI-SecOps-Reporter">Generative AI Incident Triage & Investigative Reporting</a> |
-| **Vulnerability Management & GRC** | Lifecycle remediation tracking, asset discovery configuration, and compliance artifact compilation (SOC 2, NIST). | <a href="https://github.com/DaPhilll/Enterprise-GRC-Vulnerability-Management">Enterprise GRC & Vulnerability Management Framework</a> |
+| **Security Operations & Detection Engineering** | Multi-tenant log correlation, custom query authoring (KQL/SPL), detection logic tuning, and false-positive reduction. | <a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a> |
+| **SOAR & Incident Automation** | Playbook engineering, API-driven endpoint isolation, third-party threat intelligence ingestion, and alert enrichment. | <a href="https://github.com/DaPhilll/SOAR-Playbook-Engineering-Incident-Response-Automation">SOAR Playbook Engineering & Incident Response Automation</a> |
+| **Generative AI & SecOps Workflow Design** | Leveraging LLMs to parse security events, aggregate cross-environment data, and standardize compliance reporting. | <a href="https://github.com/DaPhilll/Generative-AI-Incident-Triage-Investigative-Reporting">Generative AI Incident Triage & Investigative Reporting</a> |
+| **Vulnerability Management & GRC** | Lifecycle remediation tracking, asset discovery configuration, and compliance artifact compilation (SOC 2, NIST). | <a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise GRC & Vulnerability Management Framework</a> |
 
 ## Core Technology Stack
 
@@ -93,6 +93,9 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienc
 
 ## Projects
 
+- **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**
+  Deployment of an open-source SIEM platform to aggregate enterprise security logs, configure agent-based monitoring, and actively detect simulated threat behaviors across multiple endpoints.
+
 - **<a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a>**
   A centralized repository containing custom detection logic, hunting queries, and telemetry correlation configurations mapping directly to the MITRE ATT&CK framework. Includes optimized KQL for Microsoft Sentinel/Rapid7 and tuning logic built to structurally minimize false positives within multi-tenant infrastructures.
 
@@ -105,8 +108,6 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienc
 - **<a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise Governance, Risk, and Compliance (GRC) & Vulnerability Management Framework</a>**
   An operational framework integrating technical scanning platforms (Rapid7 InsightVM/OpenVAS) with governance workflows. Demonstrates dynamic asset discovery, remediation SLA enforcement, risk exception management, and the compilation of automated SOC 2 and NIST 800-53 compliance artifacts.
 
-- **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**
-  Deployment of an open-source SIEM platform to aggregate enterprise security logs, configure agent-based monitoring, and actively detect simulated threat behaviors across multiple endpoints.
 
 - **<a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>**
   Implementation of automated network traffic analysis and custom signature-based attack detection policies mapped to the Emerging Threats (ET) ruleset within a simulated corporate perimeter.
