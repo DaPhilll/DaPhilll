@@ -1,6 +1,6 @@
 # Hello, I'm Darreon 👋 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/darreon-phillips-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity Operations professional specializing in detection engineering, incident response automation, and multi-tenant security architecture. I consistently refine my engineering and analytical skills through advanced laboratory environments across TryHackMe, Hack The Box, and Pluralsight.
+I am a Cybersecurity Operations professional with experience in detection engineering, incident response automation, and multi-tenant security architecture. I consistently refine my engineering and analytical skills through advanced lab environments across TryHackMe, Hack The Box, and Pluralsight.
 
 ## Professional Summary
 
