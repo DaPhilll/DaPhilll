@@ -91,16 +91,16 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienc
 
 ## Featured Projects
 
-- **<a href="https://github.com/DaPhilll/Enterprise-Detection-Engineering">Enterprise Detection-as-Code & Log Correlation Suite</a>**
+- **<a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a>**
   A centralized repository containing custom detection logic, hunting queries, and telemetry correlation configurations mapping directly to the MITRE ATT&CK framework. Includes optimized KQL for Microsoft Sentinel/Rapid7 and tuning logic built to structurally minimize false positives within multi-tenant infrastructures.
 
-- **<a href="https://github.com/DaPhilll/SOAR-Incident-Automation">SOAR Playbook Engineering & Incident Response Automation</a>**
+- **<a href="https://github.com/DaPhilll/SOAR-Playbook-Engineering-Incident-Response-Automation">SOAR Playbook Engineering & Incident Response Automation</a>**
   A suite of automated incident response playbooks engineered using Python and the open-source Shuffle SOAR platform. Features programmatic threat intelligence enrichment via VirusTotal APIs and automated endpoint network isolation via Wazuh Active Response to standardize triage and accelerate containment.
 
-- **<a href="https://github.com/DaPhilll/AI-SecOps-Reporter">Generative AI Incident Triage & Investigative Reporting</a>**
+- **<a href="https://github.com/DaPhilll/Generative-AI-Incident-Triage-Investigative-Reporting">Generative AI Incident Triage & Investigative Reporting</a>**
   An automation pipeline utilizing generative AI API integrations to parse raw security logs and endpoint alerts. The tool normalizes diverse multi-tenant data inputs, extracts critical threat indicators, and compiles structured, audit-ready investigative documentation conforming to SOC 2 review standards.
 
-- **<a href="https://github.com/DaPhilll/Enterprise-GRC-Vulnerability-Management">Enterprise Governance, Risk, and Compliance (GRC) & Vulnerability Management Framework</a>**
+- **<a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise Governance, Risk, and Compliance (GRC) & Vulnerability Management Framework</a>**
   An operational framework integrating technical scanning platforms (Rapid7 InsightVM/OpenVAS) with governance workflows. Demonstrates dynamic asset discovery, remediation SLA enforcement, risk exception management, and the compilation of automated SOC 2 and NIST 800-53 compliance artifacts.
 
 - **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**
