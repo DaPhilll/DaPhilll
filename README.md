@@ -30,6 +30,31 @@ USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersec
     <a href="https://www.sentinelone.com/" target="_blank">
         <img src="https://img.shields.io/badge/-SentinelOne-472A64?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
     </a>
+    <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-for-endpoint" target="_blank">
+        <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
+    <a href="https://www.paloaltonetworks.com/cortex/cortex-xdr" target="_blank">
+        <img src="https://img.shields.io/badge/-Cortex_XDR-005A9C?&style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
+    </a>
+</div>
+
+### Identity & Infrastructure (IAM / Networking / Systems)
+<div>
+    <a href="https://learn.microsoft.com/en-us/entra/identity/" target="_blank">
+        <img src="https://img.shields.io/badge/-Microsoft_Entra_ID_(Azure_AD)-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services" target="_blank">
+        <img src="https://img.shields.io/badge/-Active_Directory_&_GPO-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview" target="_blank">
+        <img src="https://img.shields.io/badge/-Conditional_Access_&_MFA-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
+    <a href="https://meraki.cisco.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Cisco_Meraki-00BCEB?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/windows-server/" target="_blank">
+        <img src="https://img.shields.io/badge/-Windows_Server-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
 </div>
 
 ### Vulnerability Management & Automation
@@ -39,9 +64,6 @@ USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersec
     </a>
     <a href="https://torq.io/" target="_blank">
         <img src="https://img.shields.io/badge/-Torq_SOAR-7B2CBF?&style=for-the-badge" />
-    </a>
-    <a href="https://learn.microsoft.com/en-us/entra/identity/" target="_blank">
-        <img src="https://img.shields.io/badge/-Azure_Entra_ID-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     </a>
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
