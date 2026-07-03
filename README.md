@@ -4,7 +4,7 @@ I am a Cybersecurity Operations professional specializing in detection engineeri
 
 ## Professional Summary
 
-Enterprise Security Analyst with a Master of Science in Cybersecurity and Information Assurance. Experienced in authoring custom detection logic, managing XDR/SIEM platforms across multi-tenant environments, and engineering SOAR playbooks to optimize incident triage. Technical expertise spans engineering automated workflows, vulnerability lifecycles, and identity and access management (IAM) architecture.
+Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienced in authoring custom detection logic, managing XDR/SIEM platforms across multi-tenant environments, and engineering SOAR playbooks to optimize incident triage. Technical expertise spans engineering automated workflows, vulnerability lifecycles, and identity and access management (IAM) architecture.
 
 ## Core Technical Skills
 
@@ -13,7 +13,7 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity and Inform
 | **Security Operations & Detection Engineering** | Multi-tenant log correlation, custom query authoring (KQL/SPL), detection logic tuning, and false-positive reduction. | <a href="https://github.com/DaPhilll/Enterprise-Detection-Engineering">Enterprise Detection-as-Code & Log Correlation Suite</a> |
 | **SOAR & Incident Automation** | Playbook engineering, API-driven endpoint isolation, third-party threat intelligence ingestion, and alert enrichment. | <a href="https://github.com/DaPhilll/SOAR-Incident-Automation">SOAR Playbook Engineering & Incident Response Automation</a> |
 | **Generative AI & SecOps Workflow Design** | Leveraging LLMs to parse security events, aggregate cross-environment data, and standardize compliance reporting. | <a href="https://github.com/DaPhilll/AI-SecOps-Reporter">Generative AI Incident Triage & Investigative Reporting</a> |
-| **Vulnerability Management & GRC** | Lifecycle remediation tracking, asset discovery configuration, and compliance artifact compilation (SOC 2, NIST). | *Enterprise Operations Framework focus* |
+| **Vulnerability Management & GRC** | Lifecycle remediation tracking, asset discovery configuration, and compliance artifact compilation (SOC 2, NIST). | <a href="https://github.com/DaPhilll/Enterprise-GRC-Vulnerability-Management">Enterprise GRC & Vulnerability Management Framework</a> |
 
 ## Technical Ecosystem
 
@@ -42,7 +42,7 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity and Inform
         <img src="https://img.shields.io/badge/-Rapid7_InsightVM-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
     </a>
     <a href="https://torq.io/" target="_blank">
-        <img src="https://img.shields.io/badge/-Torq_SOAR-7B2CBF?&style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Torq_SOAR-7B2CBF?&style=for-the-badge" />
     </a>
     <a href="https://learn.microsoft.com/en-us/entra/identity/" target="_blank">
         <img src="https://img.shields.io/badge/-Azure_Entra_ID-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -89,17 +89,25 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity and Inform
     <img src="https://img.shields.io/badge/-Rapid7_InsightIDR_Advanced-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
 </div>
 
-## Projects
+## Featured Projects
 
-- **<a href="https://github.com/DaPhilll/Enterprise-Detection-Engineering">Enterprise Detection-as-Code & Log Correlation Suite</a>**  
+- **<a href="https://github.com/DaPhilll/Enterprise-Detection-Engineering">Enterprise Detection-as-Code & Log Correlation Suite</a>**
   A centralized repository containing custom detection logic, hunting queries, and telemetry correlation configurations mapping directly to the MITRE ATT&CK framework. Includes optimized KQL for Microsoft Sentinel/Rapid7 and tuning logic built to structurally minimize false positives within multi-tenant infrastructures.
-- **<a href="https://github.com/DaPhilll/SOAR-Incident-Automation">SOAR Playbook Engineering & Incident Response Automation</a>**  
-  Automated incident response playbooks engineered using Python and programmatic workflow logic modeled after enterprise SOAR patterns. Features automated endpoint isolation scripts, programmatic threat intelligence lookups (AnyRun/VirusTotal APIs), and multi-stage triage orchestration to reduce mean time to respond (MTTR).
-- **<a href="https://github.com/DaPhilll/AI-SecOps-Reporter">Generative AI Incident Triage & Investigative Reporting</a>**  
+
+- **<a href="https://github.com/DaPhilll/SOAR-Incident-Automation">SOAR Playbook Engineering & Incident Response Automation</a>**
+  A suite of automated incident response playbooks engineered using Python and the open-source Shuffle SOAR platform. Features programmatic threat intelligence enrichment via VirusTotal APIs and automated endpoint network isolation via Wazuh Active Response to standardize triage and accelerate containment.
+
+- **<a href="https://github.com/DaPhilll/AI-SecOps-Reporter">Generative AI Incident Triage & Investigative Reporting</a>**
   An automation pipeline utilizing generative AI API integrations to parse raw security logs and endpoint alerts. The tool normalizes diverse multi-tenant data inputs, extracts critical threat indicators, and compiles structured, audit-ready investigative documentation conforming to SOC 2 review standards.
-- **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**  
-  Deployment of an open-source SIEM platform to aggregate enterprise security logs, configure agent-based monitoring, and analyze security events.
-- **<a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>**  
-  Implementation of automated network traffic analysis and signature-based attack detection policies within a simulated corporate perimeter.
-- **<a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Scanning and Reporting with OpenVAS</a>**  
-  Configuring asset identification schedules, managing scan profiles, and generating actionable remediation metrics for technical teams.
+
+- **<a href="https://github.com/DaPhilll/Enterprise-GRC-Vulnerability-Management">Enterprise Governance, Risk, and Compliance (GRC) & Vulnerability Management Framework</a>**
+  An operational framework integrating technical scanning platforms (Rapid7 InsightVM/OpenVAS) with governance workflows. Demonstrates dynamic asset discovery, remediation SLA enforcement, risk exception management, and the compilation of automated SOC 2 and NIST 800-53 compliance artifacts.
+
+- **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**
+  Deployment of an open-source SIEM platform to aggregate enterprise security logs, configure agent-based monitoring, and actively detect simulated threat behaviors across multiple endpoints.
+
+- **<a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>**
+  Implementation of automated network traffic analysis and custom signature-based attack detection policies mapped to the Emerging Threats (ET) ruleset within a simulated corporate perimeter.
+
+- **<a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Assessment Engineering with Greenbone (OpenVAS)</a>**
+  Containerized deployment of the Greenbone Vulnerability Manager. Showcases the execution of credentialed deep-host audits against legacy architectures and the configuration of compliance overrides to isolate actionable risk from false positives.
