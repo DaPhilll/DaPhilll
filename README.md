@@ -53,9 +53,8 @@ USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersec
 
 ## Professional Certifications
 
-<div>  
+<div>
     <!-- ISC2 -->
-    <img src="https://img.shields.io/badge/-ISC2_CISSP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <a href="https://www.credly.com/badges/eb4a3bad-5e6e-467d-80fc-4cf06b980f86/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-ISC2_SSCP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
     </a>
@@ -82,9 +81,7 @@ USMC Veteran and Cybersecurity Professional with a Master of Science in Cybersec
     <a href="https://www.credly.com/badges/c5b192af-d722-432b-92c4-65fa963e88d1/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-Cisco_CCNA-00BCEB?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
-    <!-- Rapid7 -->
-    <img src="https://img.shields.io/badge/-Rapid7_InsightIDR_Product-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Rapid7_InsightIDR_Advanced-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
+    
 </div>
 
 ## Projects
