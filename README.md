@@ -65,7 +65,7 @@ Enterprise Security Analyst with a Master of Science in Cybersecurity. Experienc
     </a>
     <!-- CompTIA -->
     <img src="https://img.shields.io/badge/-CompTIA_SecurityX-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <a href="https://www.credly.com/badges/7254c8cb-7351-41e4-9b4d-3339ae0c8754/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/ddd7c6e7-151b-4dee-b3d4-ee809533e099/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-CompTIA_CySA%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
     <a href="https://www.credly.com/badges/85c805a3-a2e7-4972-b59d-d2558d6d3170/public_url" target="_blank">
