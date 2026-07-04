@@ -6,10 +6,11 @@ USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity a
 
 | Skill Area | Enterprise Capabilities & Methodologies | Associated Portfolio Projects |
 | :--- | :--- | :--- |
-| **Security Operations & Detection Engineering** | Multi-tenant log correlation, custom query authoring (KQL/SPL), detection logic tuning, and false-positive reduction. | <a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a> |
+| **Security Operations & Detection Engineering** | Multi-tenant log correlation, custom query authoring (KQL/SPL), detection logic tuning, and false-positive reduction. | <a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a>, <a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a> |
 | **SOAR & Incident Automation** | Playbook engineering, API-driven endpoint isolation, third-party threat intelligence ingestion, and alert enrichment. | <a href="https://github.com/DaPhilll/SOAR-Playbook-Engineering-Incident-Response-Automation">SOAR Playbook Engineering & Incident Response Automation</a> |
 | **Generative AI & SecOps Workflow Design** | Leveraging LLMs to parse security events, aggregate cross-environment data, and standardize compliance reporting. | <a href="https://github.com/DaPhilll/Generative-AI-Incident-Triage-Investigative-Reporting">Generative AI Incident Triage & Investigative Reporting</a> |
-| **Vulnerability Management & GRC** | Lifecycle remediation tracking, asset discovery configuration, and compliance artifact compilation (SOC 2, NIST). | <a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise GRC & Vulnerability Management Framework</a> |
+| **Network Security Monitoring** | Packet-level traffic analysis, custom signature authoring, and promiscuous-mode capture across a segmented network. | <a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a> |
+| **Vulnerability Management & GRC** | Lifecycle remediation tracking, asset discovery configuration, and compliance artifact compilation (SOC 2, NIST). | <a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise GRC & Vulnerability Management Framework</a>, <a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Assessment Engineering with Greenbone (OpenVAS)</a> |
 
 ## Core Technology Stack
 
@@ -56,11 +57,11 @@ USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity a
 
 ### Vulnerability Management & Automation
 <div>
-    <a href="https://www.rapid7.com/products/insightvm/" target="_blank">
-        <img src="https://img.shields.io/badge/-Rapid7_InsightVM-EA5B23?&style=for-the-badge&logo=rapid7&logoColor=white" />
+    <a href="https://www.greenbone.net/en/" target="_blank">
+        <img src="https://img.shields.io/badge/-Greenbone_OpenVAS-378F9C?&style=for-the-badge" />
     </a>
-    <a href="https://torq.io/" target="_blank">
-        <img src="https://img.shields.io/badge/-Torq_SOAR-7B2CBF?&style=for-the-badge" />
+    <a href="https://shuffler.io/" target="_blank">
+        <img src="https://img.shields.io/badge/-Shuffle_SOAR-1AA6B7?&style=for-the-badge" />
     </a>
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
@@ -110,23 +111,22 @@ USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity a
 ## Projects
 
 * **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**
-  Deployment of an open-source SIEM platform to aggregate enterprise security logs, configure agent-based monitoring, and actively detect simulated threat behaviors across multiple endpoints.
+  Deployment of Wazuh as a central SIEM/XDR platform to aggregate endpoint telemetry, tune detection rules against false positives, and validate detection coverage against simulated brute-force and malware-drop scenarios mapped to MITRE ATT&CK.
 
 * **<a href="https://github.com/DaPhilll/Enterprise-Detection-as-Code-Log-Correlation-Suite">Enterprise Detection-as-Code & Log Correlation Suite</a>**
-  A centralized repository containing custom detection logic, hunting queries, and telemetry correlation configurations mapping directly to the MITRE ATT&CK framework. Includes optimized KQL for Microsoft Sentinel/Rapid7 and tuning logic built to structurally minimize false positives within multi-tenant infrastructures.
+  Custom detection and hunting queries for Microsoft Sentinel and Rapid7 InsightIDR, mapped to MITRE ATT&CK and validated in an enterprise SOC environment. Includes a watchlist-based tuning pattern to reduce false positives from known-trusted sources.
 
 * **<a href="https://github.com/DaPhilll/SOAR-Playbook-Engineering-Incident-Response-Automation">SOAR Playbook Engineering & Incident Response Automation</a>**
-  A suite of automated incident response playbooks engineered using Python and the open-source Shuffle SOAR platform. Features programmatic threat intelligence enrichment via VirusTotal APIs and automated endpoint network isolation via Wazuh Active Response to standardize triage and accelerate containment.
+  An incident response workflow built on the open-source Shuffle platform: VirusTotal hash enrichment, ANY.RUN sandbox detonation for flagged indicators, and automated endpoint isolation through the Wazuh API.
 
 * **<a href="https://github.com/DaPhilll/Generative-AI-Incident-Triage-Investigative-Reporting">Generative AI Incident Triage & Investigative Reporting</a>**
-  An automation pipeline utilizing generative AI API integrations to parse raw security logs and endpoint alerts. The tool normalizes diverse multi-tenant data inputs, extracts critical threat indicators, and compiles structured, audit-ready investigative documentation conforming to SOC 2 review standards.
+  A Python pipeline that parses Wazuh and Suricata log output and sends it to the Gemini API to draft a structured, MITRE-mapped incident report. Model output is treated as a first-pass draft for analyst review, not a final report.
 
 * **<a href="https://github.com/DaPhilll/Enterprise-Governance-Risk-and-Compliance-GRC-Vulnerability-Management-Framework">Enterprise Governance, Risk, and Compliance (GRC) & Vulnerability Management Framework</a>**
-  An operational framework integrating technical scanning platforms (Rapid7 InsightVM/OpenVAS) with governance workflows. Demonstrates dynamic asset discovery, remediation SLA enforcement, risk exception management, and the compilation of automated SOC 2 and NIST 800-53 compliance artifacts.
+  A vulnerability management framework built on Greenbone (OpenVAS): risk-based prioritization using CVSS and CISA KEV data, a formal risk-exception process with logged compensating controls, and mapping to NIST SP 800-53 and SOC 2 Type II controls.
 
 * **<a href="https://github.com/DaPhilll/Suricata-Network-Intrusion-Detection-System">Suricata Network Intrusion Detection System</a>**
-  Implementation of automated network traffic analysis and custom signature-based attack detection policies mapped to the Emerging Threats (ET) ruleset within a simulated corporate perimeter.
+  A network intrusion detection deployment using Suricata, with custom detection signatures, AF_PACKET tuning for multi-core packet processing, and traffic analysis mapped to MITRE ATT&CK.
 
 * **<a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Assessment Engineering with Greenbone (OpenVAS)</a>**
-  Containerized deployment of the Greenbone Vulnerability Manager. Showcases the execution of credentialed deep-host audits against legacy architectures and the configuration of compliance overrides to isolate actionable risk from false positives.
-```
+  Credentialed vulnerability scanning of a legacy Windows 7 target using Greenbone (OpenVAS), with a documented override process for tracking accepted risk. The override record cross-references the corresponding risk-exception entry in the GRC framework.
