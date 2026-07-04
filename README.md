@@ -130,3 +130,6 @@ USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity a
 
 * **<a href="https://github.com/DaPhilll/Vulnerability-Scanning-and-Reporting-with-OpenVAS">Vulnerability Assessment Engineering with Greenbone (OpenVAS)</a>**
   Credentialed vulnerability scanning of a legacy Windows 7 target using Greenbone (OpenVAS), with a documented override process for tracking accepted risk. The override record cross-references the corresponding risk-exception entry in the GRC framework.
+
+* **<a href="https://github.com/DaPhilll/Linux-Security-Hardening-Compliance-Audit">Linux Security Hardening & Compliance Audit</a>**
+  A bash script that audits a Linux host against a subset of the CIS Ubuntu Benchmark, covering SSH configuration, host firewall status, file permissions, and audit logging. Each check maps to NIST SP 800-53 and SOC 2 Type II controls, using the same compliance framework as the GRC repository.
