@@ -75,6 +75,9 @@ USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity a
 
 <div>
     <!-- ISC2 -->
+    <a href="https://www.credly.com/badges/436be801-4f92-425a-b074-53c5a70130ac/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/-ISC2_CISSP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    </a>
     <a href="https://www.credly.com/badges/eb4a3bad-5e6e-467d-80fc-4cf06b980f86/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-ISC2_SSCP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
     </a>
