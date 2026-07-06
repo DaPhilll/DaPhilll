@@ -133,3 +133,6 @@ USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity a
 
 * **<a href="https://github.com/DaPhilll/Linux-Security-Hardening-Compliance-Audit">Linux Security Hardening & Compliance Audit</a>**
   A bash script that audits a Linux host against a subset of the CIS Ubuntu Benchmark, covering SSH configuration, host firewall status, file permissions, and audit logging. Each check maps to NIST SP 800-53 and SOC 2 Type II controls, using the same compliance framework as the GRC repository.
+
+* **<a href="https://github.com/DaPhilll/Hybrid-Identity-Bridge-Entra-Cloud-Sync">Hybrid Identity Bridge: Entra Cloud Sync and Risk-Based Access Control</a>**
+  Connects the on-premises domain controller to a Microsoft Entra ID tenant using Entra Cloud Sync, with Conditional Access policies covering admin role protection, legacy authentication blocking, and Identity Protection risk signals for sign-in risk and user risk.
