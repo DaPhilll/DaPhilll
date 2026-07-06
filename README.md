@@ -109,6 +109,10 @@ USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity a
 * **Bachelor of Science (B.S.), Cybersecurity and Information Assurance** — Western Governors University • [View Diploma](https://github.com/user-attachments/assets/c9dd6582-a4d1-44b9-9ce3-1daa881b3e68)
 
 ## Projects
+> **Start here for an overview of the full lab environment.**
+
+* **<a href="https://github.com/DaPhilll/Security-Operations-Homelab-Build-Guide">Security Operations Homelab: Build Guide</a>**
+  A high-level guide for building a security operations homelab similar to the environment behind these projects. Covers the build phases, the open source and commercial tools involved, and links to current documentation and enterprise trial options for each component.
 
 * **<a href="https://github.com/DaPhilll/Wazuh-Deployment">Security Information and Event Management with Wazuh</a>**
   Deployment of Wazuh as a central SIEM/XDR platform to aggregate endpoint telemetry, tune detection rules against false positives, and validate detection coverage against simulated brute-force and malware-drop scenarios mapped to MITRE ATT&CK.
