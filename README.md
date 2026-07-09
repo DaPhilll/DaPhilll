@@ -105,14 +105,14 @@ USMC Veteran and lifelong learner holding a Master of Science in Cybersecurity a
         <img src="https://img.shields.io/badge/-Cisco_CCNA-00BCEB?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
     <!-- Rapid7  -->
-    <a href="[Rapid7 InsightIDR Product .pdf](https://github.com/user-attachments/files/29827317/Rapid7.InsightIDR.Product.pdf)" target="_blank">
-        <img src="https://img.shields.io/badge/-Rapid7_RTSP_InsightIDR_Product-F26522?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+    <a href="https://verify.skilljar.com/c/h4j9icqr3mfk" target="_blank">
+        <img src="https://img.shields.io/badge/-Rapid7_InsightIDR_Product-F26522?&style=for-the-badge&logo=Rapid7&logoColor=white" />
     </a>
-    <a href="[Rapid7 InsightIDR Advanced .pdf](https://github.com/user-attachments/files/29827391/Rapid7.InsightIDR.Advanced.pdf)" target="_blank">
-        <img src="https://img.shields.io/badge/-Rapid7_RTSP_InsightIDR_Advanced-F26522?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+    <a href="https://verify.skilljar.com/c/in6pfyf4947h" target="_blank">
+        <img src="https://img.shields.io/badge/-Rapid7_InsightIDR_Advanced-F26522?&style=for-the-badge&logo=Rapid7&logoColor=white" />
     </a>
-    <a href="[Rapid7 Foundation.pdf](https://github.com/user-attachments/files/29827427/Rapid7.Foundation.pdf)" target="_blank">
-        <img src="https://img.shields.io/badge/-Rapid7_RTSP_Foundation-F26522?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+    <a href="https://verify.skilljar.com/c/vphi3yw9tb4n" target="_blank">
+        <img src="https://img.shields.io/badge/-Rapid7_Foundation-F26522?&style=for-the-badge&logo=Rapid7&logoColor=white" />
     </a>
 </div>
 
